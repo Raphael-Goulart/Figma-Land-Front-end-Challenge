@@ -1,0 +1,40 @@
+:root {
+    --cor-de-fundo: #181818;
+    --cor-botoes-try-signup:#4452FE;
+    --cor-letra: #fff;
+    --fonte-letras: 'Khula', sans-serif;  
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+.container_mobile {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.container_mobile img{
+    margin-top: 25px;
+    margin-left: 34px;
+}
+
+.botao_login {
+    background-color: var(--cor-de-fundo);
+    color: var(--cor-letra) ;
+    padding: 20px 36px;
+    border: 1px solid #FFFFFF;
+    margin-top: 25px;
+    font-weight: 500;
+    font-size: 17px;
+    cursor: pointer;
+   
+}
+
+.botao_menu {
+    background-color: var(--cor-de-fundo);
+    border: none;
+    cursor: pointer;
+}
+
