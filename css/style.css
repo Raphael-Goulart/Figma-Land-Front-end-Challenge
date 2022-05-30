@@ -6,35 +6,152 @@
 }
 
 body {
+    
     background-color: var(--cor-de-fundo);
+    color: var(--cor-letra);
+    font-family: var(--fonte-letras); 
 }
 
-.container_mobile {
+
+.cabecalho {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 35px;
+    margin-top: 30px; 
+}
+
+.cabecalho nav {
+    display: flex;
+    justify-content: center;
+}
+
+
+.cabecalho_logo{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-}
-
-.container_mobile img{
-    margin-top: 25px;
-    margin-left: 34px;
-}
-
-.botao_login {
-    background-color: var(--cor-de-fundo);
-    color: var(--cor-letra) ;
-    padding: 20px 36px;
-    border: 1px solid #FFFFFF;
-    margin-top: 25px;
-    font-weight: 500;
-    font-size: 17px;
-    cursor: pointer;
+    padding-right: 136px;
+   
    
 }
 
-.botao_menu {
-    background-color: var(--cor-de-fundo);
-    border: none;
+.cabecalho_links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     cursor: pointer;
+    width: 393px;
+    height: 44px;
 }
+
+  .botao_login {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 183.5px;
+  }
+
+  .botao_login button {
+    cursor: pointer;
+    width: 139px;
+    height: 52px;
+    border: 1px solid #FFFFFF;
+    background: var(--cor-de-fundo);
+    color: var(--cor-letra);
+    font-weight: 500;
+    font-size: 17px;
+  }
+
+  .cabecalho_sobre {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 0px;
+    gap: 17px;
+    width: 1579px;
+    height: 393px;
+    
+  }
+
+  .cabecalho_titulo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    width: 729px;
+    height: 196px;
+  }
+
+  .cabecalho_titulo h1 {
+    font-weight: 500;
+    font-size: 80px;
+    text-align: center;
+  }
+
+  .cabecalho_paragrafo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    width: 602px;
+    height: 80px;
+  }
+
+  .cabecalho_paragrafo p {
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    line-height: 30px;
+  }
+
+  .cabecalho_botao {
+    display: flex;
+    justify-content: space-between;
+    width: 387px;
+    height: 65px;
+    
+  }
+
+  .cabecalho_botao--1 {
+    width: 178px;
+    height: 65px;
+    background: #4452FE;
+    text-align: center;
+    font-weight: 500;
+    font-size: 17px;
+    color: var(--cor-letra);
+    cursor: pointer;  
+  }
+
+  .cabecalho_botao--2 {
+    width: 178px;
+    height: 65px;
+    background-color: var(--cor-de-fundo);
+    border: 1px solid #FFFFFF;
+    text-align: center;
+    font-weight: 500;
+    font-size: 17px;
+    color:#FFFFFF;
+    cursor: pointer;
+  }
+
+.cabecalho_imagem{
+    width: 100vw;
+    height: 100vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
