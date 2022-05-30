@@ -118,6 +118,7 @@ body {
   .cabecalho_botao--1 {
     width: 178px;
     height: 65px;
+    border: none;
     background: #4452FE;
     text-align: center;
     font-weight: 500;
