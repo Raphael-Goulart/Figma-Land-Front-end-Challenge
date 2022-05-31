@@ -267,7 +267,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 50px 199px;
+  padding: 10px 199px;
   gap: 35px;
 
   height: 930.52px;
@@ -296,6 +296,43 @@ body {
   text-align: center;
 }
 
+.cartoes{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 33px;
+  width: 985px;
+  height: 624.52px;
+}
+
+.cartoes--1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 0px;
+  gap: 57px;
+  width: 476px;
+  height: 624.52px;
+  background: #FFFFFF;
+  border: 1px solid #D3D3D3;
+  box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+}
+
+.cartoes--2{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 0px;
+  gap: 30px;
+  width: 476px;
+  height: 620px;
+  background: #FFFFFF;
+  border: 1px solid #D3D3D3;
+  box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+}
 
 
 
