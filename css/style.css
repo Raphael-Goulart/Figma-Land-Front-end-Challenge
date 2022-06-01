@@ -73,7 +73,6 @@ body {
     align-items: center;
     padding: 50px 0px;
     gap: 17px;
-    width: 1579px;
     height: 393px;
     
   }
@@ -145,7 +144,7 @@ body {
   
 
 .cabecalho_imagem {
-  width: 1579px;
+  width: 1499px;
   height: 993px;
 }
 
@@ -242,7 +241,7 @@ body {
   flex-direction: row;
   align-items: flex-start;
   padding: 0px;
-  width: 204.49px;
+  width: 205px;
   height: 80px;
   
 }
@@ -270,7 +269,6 @@ body {
   align-items: center;
   padding: 10px 199px;
   gap: 35px;
-
   height: 930.52px;
 }
 
@@ -504,6 +502,237 @@ body {
   width: 831.97px;
   height: 60px;
 }
+
+.depoimentos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 20px;
+  gap: 50px;
+  height: 884px;
+}
+
+.depoimentos h1 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 52px;
+  line-height: 62px;
+}
+
+.depoimentos-card {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 23px;
+  width: 883px;
+  height: 652px;
+}
+
+.depoimentos-esquerda {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  width: 430px;
+  height: 652px;
+}
+
+.depoimentos-esquerda--1 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 40px;
+  gap: 30px;
+  width: 430px;
+  height: 328px;
+  border: 1px solid #DEDEDE;
+  border-radius: 10px;
+}
+
+.depoimentos-esquerda--client {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 13px;
+  width: 162px;
+  height: 50px;
+}
+
+.depoimentos-esquerda--client img {
+  width: 50px;
+  height: 50px;
+}
+
+.depoimentos-esquerda-info{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 99px;
+  height: 48px;
+}
+
+.depoimentos-esquerda--1 p {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 320px;
+  height: 168px;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 24px;
+
+}
+
+.depoimentos-esquerda--2 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 40px;
+  gap: 30px;
+  width: 430px;
+  height: 304px;
+  background: #181818;
+  border: 1px solid #DEDEDE;
+  border-radius: 10px;
+}
+
+.depoimentos-esquerda--2-client {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 13px;
+  width: 162px;
+  height: 50px;
+}
+.depoimentos-esquerda--2-client img {
+  width: 50px;
+  height: 50px;
+}
+
+.depoimentos-esquerda--2-info{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 99px;
+  height: 48px;
+}
+
+.depoimentos-esquerda--2 p {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  width: 320px;
+  height: 168px;
+  font-family: var(--fonte-family);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.89px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: #FFFFFF;
+}
+
+.depoimentos-direita {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  width: 430px;
+  height: 628px;
+}
+
+.depoimentos-direita--1{
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 40px;
+  gap: 30px;
+  width: 430px;
+  height: 304px;
+  background: #181818;
+  border: 1px solid #DEDEDE;
+  border-radius: 10px;
+}
+
+.depoimentos-direita--client {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 13px;
+  width: 200px;
+  height: 50px;
+}
+
+.depoimentos-direita--client img {
+  width: 50px;
+  height: 50px;
+}
+
+.depoimentos-direita--info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  width: 137px;
+  height: 48px;
+}
+
+.depoimentos-direita--1 p {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 320px;
+  height: 144px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+
+}
+
+.depoimentos-direita--2 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 40px;
+  gap: 30px;
+  width: 430px;
+  height: 304px;
+  background: #181818;
+  border: 1px solid #DEDEDE;
+  border-radius: 10px;
+}
+
+.depoimentos-direita--client {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 13px;
+  width: 200px;
+  height: 50px;
+}
+
+.depoimentos-direita--2 p {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 320px;
+  height: 144px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+
+
+
+
+
 
 
 
