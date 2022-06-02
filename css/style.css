@@ -12,6 +12,7 @@ body {
     background-color: var(--cor-de-fundo);
     color: var(--cor-letra);
     font-family: var(--fonte-letras); 
+    width: 1499px;
     
 }
 
@@ -23,8 +24,6 @@ body {
     padding: 0px;
     gap: 35px;
     margin-top: 30px; 
-    width: 1579px;
-    height: 1675px;
     
     
 }
@@ -147,7 +146,7 @@ body {
   
 
 .cabecalho_imagem {
-  width: 1579px;gi
+  width: 1499px;
   height: 993px;
 }
 
