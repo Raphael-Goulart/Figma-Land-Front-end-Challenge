@@ -23,6 +23,8 @@ body {
     padding: 0px;
     gap: 35px;
     margin-top: 30px; 
+    width: 1579px;
+    height: 1675px;
     
     
 }
@@ -145,7 +147,7 @@ body {
   
 
 .cabecalho_imagem {
-  width: 1499px;
+  width: 1579px;gi
   height: 993px;
 }
 
