@@ -150,8 +150,8 @@ body {
   
 
 .cabecalho_imagem {
-  width: 1499px;
-  height: 993px;
+  width: 100vw;
+  height: 992px;
 }
 
 #cabecalho_imagem {
