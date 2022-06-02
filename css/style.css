@@ -12,7 +12,11 @@ body {
     background-color: var(--cor-de-fundo);
     color: var(--cor-letra);
     font-family: var(--fonte-letras); 
-    width: 1499px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
     
 }
 
