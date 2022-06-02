@@ -734,7 +734,6 @@ body {
   flex-direction: column;
   align-items: center;
   padding: 80px 0px;
-  width: 1579px;
   height: 530px;
 }
 
@@ -776,6 +775,82 @@ body {
   border-radius: 0 0 33px 0;  
 }
 
+.rodape {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 107px 0px;
+  height: 437px;
+}
+
+.rodape_conteudo {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  width: 1031px;
+  height: 223px;
+  gap: 199px;
+  height: 223px;
+}
+
+.rodape_conteudo--1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 75px;
+  height: 223px;
+
+}
+
+.rodape_links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+  height: 223px;
+}
+
+.rodape_links--1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+  height: 223px;
+}
+
+.rodape_titulo {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.rodape_contatos {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 60px;
+  height: 190.99px;
+
+}
+
+.rodape_endereco {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.rodape_endereco span {
+  padding-left: 15px;
+}
+
+.rodape_social {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 20px 0px;
+  gap: 24px;
+}
 
 
 
