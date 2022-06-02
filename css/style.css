@@ -155,7 +155,7 @@ body {
 }
 
 #cabecalho_imagem {
-  width: 100%;
+  width: 100vw;
   height: 841px;
   background: linear-gradient(to bottom, transparent 5%, black 100%), url(../images/dashboard.png);
   background-repeat: no-repeat;
