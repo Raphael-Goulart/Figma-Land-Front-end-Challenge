@@ -17,6 +17,7 @@
 
 ><h2>My Project</h2>
 > This is the final version of my project: https://figma-land-front-end-challenge.vercel.app/
+> To develop the project and make it more semantic I used tags like header, main, section and footer in HTML. In CSS I used the same class for the buttons and applied root to facilitate possible changes in the project.
 
 
 
