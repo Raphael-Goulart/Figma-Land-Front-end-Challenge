@@ -1,5 +1,6 @@
 ><h1>Landing Page</h1>
->(https://user-images.githubusercontent.com/102624691/175277247-9e67b8c2-031b-4554-a687-4f3a118cdf33.png)
+
+![logo](https://user-images.githubusercontent.com/102624691/175278041-e4bcaaa4-12cd-4e54-8b1d-b252f859f2a4.jpg)
 
 
 ><h2>About</h2>
