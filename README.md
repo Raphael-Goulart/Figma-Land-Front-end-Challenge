@@ -1,10 +1,23 @@
-# Figma-land  ![<h1>Landing-Page<h1>](https://user-images.githubusercontent.com/102624691/175266477-d9d884e7-3b9a-48e6-a470-a2cca89064d2.png)
+<h1 align="center">Landing-Page<h1/>
 
+![Figma Land Logo](https://user-images.githubusercontent.com/102624691/175267066-4a55c4fa-90e3-4802-9e3c-d1f0f61bde8c.png)
 
->Front end Challenge 2 by Kelvin Conrad.
->
+<ul>
+  <li>About</li>
+  <li>Page image</li>
+  <li>My Project</li>
+  <li>Author<li>
+<ul>
+
+<p align="center">This challenge was developed by Kelvin and aims to train front-end skills using HTML and CSS.</>
+
+![page](https://user-images.githubusercontent.com/102624691/175270754-0d8d2b98-ed98-4388-b3ef-3b255d75685e.png)
+
+> This is the final version of my project: https://figma-land-front-end-challenge.vercel.app/
+  
+>Challenge developed by Kelvin Conrad 
+>Kelvin's Github: https://github.com/kelvinconrad
 >Github link of the original project: https://github.com/kelvinconrad/Figma-landing-page-darkmode
-
 >Figma link of the project: https://www.figma.com/file/tOgQVsBPqI2BvnNHluHnYO/Figma-startup-landing-page-dark-(Community)?node-id=0%3A3518
 
 
