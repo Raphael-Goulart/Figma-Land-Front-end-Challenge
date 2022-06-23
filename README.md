@@ -1,5 +1,6 @@
->[Landing-Page](https://user-images.githubusercontent.com/102624691/175267066-4a55c4fa-90e3-4802-9e3c-d1f0f61bde8c.png)
-  
+><h1>Landing Page</h1>
+>(https://user-images.githubusercontent.com/102624691/175277247-9e67b8c2-031b-4554-a687-4f3a118cdf33.png)
+
 
 ><h2>About</h2>
 >Develop a landing page
