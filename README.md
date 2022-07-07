@@ -5,7 +5,7 @@
 
 
 ><h2>About</h2>
->Develop a landing page
+>Build a landing page
 > 
 >This challenge was developed by Kelvin and aims to train front-end skills using HTML and CSS.
 >
